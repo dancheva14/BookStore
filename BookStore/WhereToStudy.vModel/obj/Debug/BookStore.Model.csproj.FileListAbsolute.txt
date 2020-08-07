@@ -1,0 +1,16 @@
+D:\Me\BookStore\EducationSystem\WhereToStudy.vModel\bin\Debug\WhereToStudy.vModel.dll
+D:\Me\BookStore\EducationSystem\WhereToStudy.vModel\bin\Debug\WhereToStudy.vModel.pdb
+D:\Me\BookStore\EducationSystem\WhereToStudy.vModel\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Me\BookStore\EducationSystem\WhereToStudy.vModel\obj\Debug\BookStore.Model.csprojAssemblyReference.cache
+D:\Me\BookStore\EducationSystem\WhereToStudy.vModel\obj\Debug\BookStore.Model.csproj.CoreCompileInputs.cache
+D:\Me\BookStore\EducationSystem\WhereToStudy.vModel\obj\Debug\BookStore.Model.csproj.CopyComplete
+D:\Me\BookStore\EducationSystem\WhereToStudy.vModel\obj\Debug\WhereToStudy.vModel.dll
+D:\Me\BookStore\EducationSystem\WhereToStudy.vModel\obj\Debug\WhereToStudy.vModel.pdb
+D:\Me\BookStore\BookStore\WhereToStudy.vModel\bin\Debug\WhereToStudy.vModel.dll
+D:\Me\BookStore\BookStore\WhereToStudy.vModel\bin\Debug\WhereToStudy.vModel.pdb
+D:\Me\BookStore\BookStore\WhereToStudy.vModel\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Me\BookStore\BookStore\WhereToStudy.vModel\obj\Debug\BookStore.Model.csprojAssemblyReference.cache
+D:\Me\BookStore\BookStore\WhereToStudy.vModel\obj\Debug\BookStore.Model.csproj.CoreCompileInputs.cache
+D:\Me\BookStore\BookStore\WhereToStudy.vModel\obj\Debug\BookStore.Model.csproj.CopyComplete
+D:\Me\BookStore\BookStore\WhereToStudy.vModel\obj\Debug\WhereToStudy.vModel.dll
+D:\Me\BookStore\BookStore\WhereToStudy.vModel\obj\Debug\WhereToStudy.vModel.pdb

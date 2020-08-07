@@ -1,0 +1,30 @@
+﻿@model IEnumerable<BookStore.vModel.Client>
+@{
+    ViewBag.Title = "DeleteClient";
+}
+
+@if (ViewBag.Message != null)
+{
+    <span><b>@ViewData["Message"]</b></span>
+}
+
+<h2>Клиенти</h2>
+
+<div class="courses-list">
+
+    <table>
+        <tr>
+            <th>Клиент </th>
+            <th>| Изтриване | </th>
+            <th>Редакция</th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td> @Html.Label(item.Name)</td>
+                <td><a href="@Url.Action("DeleteClient", "AddEditDelete", new { id = item.Id }, null)">Изтрии</a> </td>
+                <td><a href="@Url.Action("EditClient", "AddEditDelete", new { id = item.Id }, null)">Редактирай</a> </td>
+            </tr>
+        }
+    </table>
+</div>

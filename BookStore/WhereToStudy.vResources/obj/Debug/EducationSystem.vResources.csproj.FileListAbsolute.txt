@@ -1,0 +1,65 @@
+E:\WhereToStudy\WhereToStudy.vResources\bin\Debug\WhereToStudy.vResources.dll
+E:\WhereToStudy\WhereToStudy.vResources\bin\Debug\WhereToStudy.vResources.pdb
+E:\WhereToStudy\WhereToStudy.vResources\bin\Debug\en\WhereToStudy.vResources.resources.dll
+E:\WhereToStudy\WhereToStudy.vResources\obj\Debug\WhereToStudy.vResources.Resource.resources
+E:\WhereToStudy\WhereToStudy.vResources\obj\Debug\WhereToStudy.vResources.Resource.en.resources
+E:\WhereToStudy\WhereToStudy.vResources\obj\Debug\EducationSystem.vResources.csproj.GenerateResource.cache
+E:\WhereToStudy\WhereToStudy.vResources\obj\Debug\EducationSystem.vResources.csproj.CoreCompileInputs.cache
+E:\WhereToStudy\WhereToStudy.vResources\obj\Debug\en\WhereToStudy.vResources.resources.dll
+E:\WhereToStudy\WhereToStudy.vResources\obj\Debug\WhereToStudy.vResources.dll
+E:\WhereToStudy\WhereToStudy.vResources\obj\Debug\WhereToStudy.vResources.pdb
+E:\EducationSystem\WhereToStudy.vResources\bin\Debug\WhereToStudy.vResources.dll
+E:\EducationSystem\WhereToStudy.vResources\bin\Debug\WhereToStudy.vResources.pdb
+E:\EducationSystem\WhereToStudy.vResources\bin\Debug\en\WhereToStudy.vResources.resources.dll
+E:\EducationSystem\WhereToStudy.vResources\obj\Debug\WhereToStudy.vResources.Resource.resources
+E:\EducationSystem\WhereToStudy.vResources\obj\Debug\WhereToStudy.vResources.Resource.en.resources
+E:\EducationSystem\WhereToStudy.vResources\obj\Debug\EducationSystem.vResources.csproj.GenerateResource.cache
+E:\EducationSystem\WhereToStudy.vResources\obj\Debug\EducationSystem.vResources.csproj.CoreCompileInputs.cache
+E:\EducationSystem\WhereToStudy.vResources\obj\Debug\en\WhereToStudy.vResources.resources.dll
+E:\EducationSystem\WhereToStudy.vResources\obj\Debug\WhereToStudy.vResources.dll
+E:\EducationSystem\WhereToStudy.vResources\obj\Debug\WhereToStudy.vResources.pdb
+E:\EducationSystem\WhereToStudy.vResources\obj\Debug\EducationSystem.vResources.csprojResolveAssemblyReference.cache
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy.vResources\bin\Debug\WhereToStudy.vResources.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy.vResources\bin\Debug\WhereToStudy.vResources.pdb
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy.vResources\bin\Debug\en\WhereToStudy.vResources.resources.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy.vResources\obj\Debug\EducationSystem.vResources.csprojResolveAssemblyReference.cache
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy.vResources\obj\Debug\WhereToStudy.vResources.Resource.resources
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy.vResources\obj\Debug\WhereToStudy.vResources.Resource.en.resources
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy.vResources\obj\Debug\EducationSystem.vResources.csproj.GenerateResource.Cache
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy.vResources\obj\Debug\EducationSystem.vResources.csproj.CoreCompileInputs.cache
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy.vResources\obj\Debug\en\WhereToStudy.vResources.resources.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy.vResources\obj\Debug\WhereToStudy.vResources.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy.vResources\obj\Debug\WhereToStudy.vResources.pdb
+E:\Me\EducationSystem\EducationSystem\WhereToStudy.vResources\bin\Debug\WhereToStudy.vResources.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy.vResources\bin\Debug\WhereToStudy.vResources.pdb
+E:\Me\EducationSystem\EducationSystem\WhereToStudy.vResources\bin\Debug\en\WhereToStudy.vResources.resources.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy.vResources\obj\Debug\EducationSystem.vResources.csprojResolveAssemblyReference.cache
+E:\Me\EducationSystem\EducationSystem\WhereToStudy.vResources\obj\Debug\WhereToStudy.vResources.Resource.resources
+E:\Me\EducationSystem\EducationSystem\WhereToStudy.vResources\obj\Debug\WhereToStudy.vResources.Resource.en.resources
+E:\Me\EducationSystem\EducationSystem\WhereToStudy.vResources\obj\Debug\EducationSystem.vResources.csproj.GenerateResource.cache
+E:\Me\EducationSystem\EducationSystem\WhereToStudy.vResources\obj\Debug\EducationSystem.vResources.csproj.CoreCompileInputs.cache
+E:\Me\EducationSystem\EducationSystem\WhereToStudy.vResources\obj\Debug\en\WhereToStudy.vResources.resources.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy.vResources\obj\Debug\WhereToStudy.vResources.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy.vResources\obj\Debug\WhereToStudy.vResources.pdb
+D:\Me\EducationSystem\EducationSystem\WhereToStudy.vResources\bin\Debug\WhereToStudy.vResources.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy.vResources\bin\Debug\WhereToStudy.vResources.pdb
+D:\Me\EducationSystem\EducationSystem\WhereToStudy.vResources\bin\Debug\en\WhereToStudy.vResources.resources.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy.vResources\obj\Debug\WhereToStudy.vResources.Resource.resources
+D:\Me\EducationSystem\EducationSystem\WhereToStudy.vResources\obj\Debug\WhereToStudy.vResources.Resource.en.resources
+D:\Me\EducationSystem\EducationSystem\WhereToStudy.vResources\obj\Debug\EducationSystem.vResources.csproj.GenerateResource.cache
+D:\Me\EducationSystem\EducationSystem\WhereToStudy.vResources\obj\Debug\EducationSystem.vResources.csproj.CoreCompileInputs.cache
+D:\Me\EducationSystem\EducationSystem\WhereToStudy.vResources\obj\Debug\en\WhereToStudy.vResources.resources.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy.vResources\obj\Debug\WhereToStudy.vResources.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy.vResources\obj\Debug\WhereToStudy.vResources.pdb
+D:\Me\EducationSystem\EducationSystem\WhereToStudy.vResources\obj\Debug\EducationSystem.vResources.csprojAssemblyReference.cache
+E:\ВИви\EducationSystem\WhereToStudy.vResources\bin\Debug\WhereToStudy.vResources.dll
+E:\ВИви\EducationSystem\WhereToStudy.vResources\bin\Debug\WhereToStudy.vResources.pdb
+E:\ВИви\EducationSystem\WhereToStudy.vResources\bin\Debug\en\WhereToStudy.vResources.resources.dll
+E:\ВИви\EducationSystem\WhereToStudy.vResources\obj\Debug\EducationSystem.vResources.csprojAssemblyReference.cache
+E:\ВИви\EducationSystem\WhereToStudy.vResources\obj\Debug\WhereToStudy.vResources.Resource.resources
+E:\ВИви\EducationSystem\WhereToStudy.vResources\obj\Debug\WhereToStudy.vResources.Resource.en.resources
+E:\ВИви\EducationSystem\WhereToStudy.vResources\obj\Debug\EducationSystem.vResources.csproj.GenerateResource.cache
+E:\ВИви\EducationSystem\WhereToStudy.vResources\obj\Debug\EducationSystem.vResources.csproj.CoreCompileInputs.cache
+E:\ВИви\EducationSystem\WhereToStudy.vResources\obj\Debug\en\WhereToStudy.vResources.resources.dll
+E:\ВИви\EducationSystem\WhereToStudy.vResources\obj\Debug\WhereToStudy.vResources.dll
+E:\ВИви\EducationSystem\WhereToStudy.vResources\obj\Debug\WhereToStudy.vResources.pdb

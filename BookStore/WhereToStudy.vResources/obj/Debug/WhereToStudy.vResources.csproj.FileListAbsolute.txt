@@ -1,0 +1,10 @@
+C:\Projects\WhereToStudy\WhereToStudy.vResources\bin\Debug\WhereToStudy.vResources.dll
+C:\Projects\WhereToStudy\WhereToStudy.vResources\bin\Debug\WhereToStudy.vResources.pdb
+C:\Projects\WhereToStudy\WhereToStudy.vResources\bin\Debug\en\WhereToStudy.vResources.resources.dll
+C:\Projects\WhereToStudy\WhereToStudy.vResources\obj\Debug\WhereToStudy.vResources.Resource.resources
+C:\Projects\WhereToStudy\WhereToStudy.vResources\obj\Debug\WhereToStudy.vResources.Resource.en.resources
+C:\Projects\WhereToStudy\WhereToStudy.vResources\obj\Debug\WhereToStudy.vResources.csproj.GenerateResource.cache
+C:\Projects\WhereToStudy\WhereToStudy.vResources\obj\Debug\WhereToStudy.vResources.csproj.CoreCompileInputs.cache
+C:\Projects\WhereToStudy\WhereToStudy.vResources\obj\Debug\en\WhereToStudy.vResources.resources.dll
+C:\Projects\WhereToStudy\WhereToStudy.vResources\obj\Debug\WhereToStudy.vResources.dll
+C:\Projects\WhereToStudy\WhereToStudy.vResources\obj\Debug\WhereToStudy.vResources.pdb

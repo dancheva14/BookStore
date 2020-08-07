@@ -1,0 +1,14 @@
+C:\Projects\WhereToStudy\WhereToStudy.vRepository\bin\Debug\WhereToStudy.vRepository.dll
+C:\Projects\WhereToStudy\WhereToStudy.vRepository\bin\Debug\WhereToStudy.vRepository.pdb
+C:\Projects\WhereToStudy\WhereToStudy.vRepository\bin\Debug\Dapper.dll
+C:\Projects\WhereToStudy\WhereToStudy.vRepository\bin\Debug\WhereToStudy.vModel.dll
+C:\Projects\WhereToStudy\WhereToStudy.vRepository\bin\Debug\WhereToStudy.vResources.dll
+C:\Projects\WhereToStudy\WhereToStudy.vRepository\bin\Debug\WhereToStudy.vModel.pdb
+C:\Projects\WhereToStudy\WhereToStudy.vRepository\bin\Debug\Dapper.xml
+C:\Projects\WhereToStudy\WhereToStudy.vRepository\bin\Debug\WhereToStudy.vResources.pdb
+C:\Projects\WhereToStudy\WhereToStudy.vRepository\bin\Debug\en\WhereToStudy.vResources.resources.dll
+C:\Projects\WhereToStudy\WhereToStudy.vRepository\obj\Debug\WhereToStudy.vRepository.csprojResolveAssemblyReference.cache
+C:\Projects\WhereToStudy\WhereToStudy.vRepository\obj\Debug\WhereToStudy.vRepository.csproj.CoreCompileInputs.cache
+C:\Projects\WhereToStudy\WhereToStudy.vRepository\obj\Debug\WhereToStudy.vRepository.csproj.CopyComplete
+C:\Projects\WhereToStudy\WhereToStudy.vRepository\obj\Debug\WhereToStudy.vRepository.dll
+C:\Projects\WhereToStudy\WhereToStudy.vRepository\obj\Debug\WhereToStudy.vRepository.pdb

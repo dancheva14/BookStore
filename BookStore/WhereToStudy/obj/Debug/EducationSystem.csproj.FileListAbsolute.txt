@@ -1,0 +1,944 @@
+E:\WhereToStudy\WhereToStudy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\WhereToStudy\WhereToStudy\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\WhereToStudy\WhereToStudy\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\WhereToStudy\WhereToStudy\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\WhereToStudy\WhereToStudy\bin\roslyn\System.IO.Compression.dll
+E:\WhereToStudy\WhereToStudy\bin\roslyn\VBCSCompiler.exe
+E:\WhereToStudy\WhereToStudy\bin\ApplicationInsights.config
+E:\WhereToStudy\WhereToStudy\bin\WhereToStudy.dll.config
+E:\WhereToStudy\WhereToStudy\bin\WhereToStudy.dll
+E:\WhereToStudy\WhereToStudy\bin\WhereToStudy.pdb
+E:\WhereToStudy\WhereToStudy\bin\roslyn\csc.exe
+E:\WhereToStudy\WhereToStudy\bin\roslyn\csc.exe.config
+E:\WhereToStudy\WhereToStudy\bin\roslyn\csc.rsp
+E:\WhereToStudy\WhereToStudy\bin\roslyn\csi.exe
+E:\WhereToStudy\WhereToStudy\bin\roslyn\csi.exe.config
+E:\WhereToStudy\WhereToStudy\bin\roslyn\csi.rsp
+E:\WhereToStudy\WhereToStudy\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\WhereToStudy\WhereToStudy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\WhereToStudy\WhereToStudy\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\WhereToStudy\WhereToStudy\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\WhereToStudy\WhereToStudy\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\WhereToStudy\WhereToStudy\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\WhereToStudy\WhereToStudy\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\WhereToStudy\WhereToStudy\bin\roslyn\System.AppContext.dll
+E:\WhereToStudy\WhereToStudy\bin\roslyn\System.Collections.Immutable.dll
+E:\WhereToStudy\WhereToStudy\bin\roslyn\System.Console.dll
+E:\WhereToStudy\WhereToStudy\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\WhereToStudy\WhereToStudy\bin\roslyn\System.Diagnostics.Process.dll
+E:\WhereToStudy\WhereToStudy\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\WhereToStudy\WhereToStudy\bin\roslyn\System.IO.FileSystem.dll
+E:\WhereToStudy\WhereToStudy\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\WhereToStudy\WhereToStudy\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\WhereToStudy\WhereToStudy\bin\roslyn\System.IO.Pipes.dll
+E:\WhereToStudy\WhereToStudy\bin\roslyn\System.Reflection.Metadata.dll
+E:\WhereToStudy\WhereToStudy\bin\roslyn\System.Security.AccessControl.dll
+E:\WhereToStudy\WhereToStudy\bin\roslyn\System.Security.Claims.dll
+E:\WhereToStudy\WhereToStudy\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\WhereToStudy\WhereToStudy\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\WhereToStudy\WhereToStudy\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\WhereToStudy\WhereToStudy\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\WhereToStudy\WhereToStudy\bin\roslyn\System.Security.Principal.Windows.dll
+E:\WhereToStudy\WhereToStudy\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\WhereToStudy\WhereToStudy\bin\roslyn\System.Threading.Thread.dll
+E:\WhereToStudy\WhereToStudy\bin\roslyn\System.ValueTuple.dll
+E:\WhereToStudy\WhereToStudy\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\WhereToStudy\WhereToStudy\bin\roslyn\System.Xml.XmlDocument.dll
+E:\WhereToStudy\WhereToStudy\bin\roslyn\System.Xml.XPath.dll
+E:\WhereToStudy\WhereToStudy\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\WhereToStudy\WhereToStudy\bin\roslyn\vbc.exe
+E:\WhereToStudy\WhereToStudy\bin\roslyn\vbc.exe.config
+E:\WhereToStudy\WhereToStudy\bin\roslyn\vbc.rsp
+E:\WhereToStudy\WhereToStudy\bin\roslyn\VBCSCompiler.exe.config
+E:\WhereToStudy\WhereToStudy\bin\Antlr3.Runtime.dll
+E:\WhereToStudy\WhereToStudy\bin\Dapper.dll
+E:\WhereToStudy\WhereToStudy\bin\EntityFramework.dll
+E:\WhereToStudy\WhereToStudy\bin\EntityFramework.SqlServer.dll
+E:\WhereToStudy\WhereToStudy\bin\Microsoft.AI.Agent.Intercept.dll
+E:\WhereToStudy\WhereToStudy\bin\Microsoft.AI.DependencyCollector.dll
+E:\WhereToStudy\WhereToStudy\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\WhereToStudy\WhereToStudy\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\WhereToStudy\WhereToStudy\bin\Microsoft.AI.Web.dll
+E:\WhereToStudy\WhereToStudy\bin\Microsoft.AI.WindowsServer.dll
+E:\WhereToStudy\WhereToStudy\bin\Microsoft.ApplicationInsights.dll
+E:\WhereToStudy\WhereToStudy\bin\Microsoft.AspNet.Identity.Core.dll
+E:\WhereToStudy\WhereToStudy\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\WhereToStudy\WhereToStudy\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\WhereToStudy\WhereToStudy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\WhereToStudy\WhereToStudy\bin\Microsoft.Owin.dll
+E:\WhereToStudy\WhereToStudy\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\WhereToStudy\WhereToStudy\bin\Microsoft.Owin.Security.Cookies.dll
+E:\WhereToStudy\WhereToStudy\bin\Microsoft.Owin.Security.dll
+E:\WhereToStudy\WhereToStudy\bin\Microsoft.Owin.Security.Facebook.dll
+E:\WhereToStudy\WhereToStudy\bin\Microsoft.Owin.Security.Google.dll
+E:\WhereToStudy\WhereToStudy\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\WhereToStudy\WhereToStudy\bin\Microsoft.Owin.Security.OAuth.dll
+E:\WhereToStudy\WhereToStudy\bin\Microsoft.Owin.Security.Twitter.dll
+E:\WhereToStudy\WhereToStudy\bin\Microsoft.Web.Infrastructure.dll
+E:\WhereToStudy\WhereToStudy\bin\Newtonsoft.Json.dll
+E:\WhereToStudy\WhereToStudy\bin\Ninject.dll
+E:\WhereToStudy\WhereToStudy\bin\Ninject.Web.Common.dll
+E:\WhereToStudy\WhereToStudy\bin\Owin.dll
+E:\WhereToStudy\WhereToStudy\bin\System.Web.Helpers.dll
+E:\WhereToStudy\WhereToStudy\bin\System.Web.Mvc.dll
+E:\WhereToStudy\WhereToStudy\bin\System.Web.Optimization.dll
+E:\WhereToStudy\WhereToStudy\bin\System.Web.Razor.dll
+E:\WhereToStudy\WhereToStudy\bin\System.Web.WebPages.Deployment.dll
+E:\WhereToStudy\WhereToStudy\bin\System.Web.WebPages.dll
+E:\WhereToStudy\WhereToStudy\bin\System.Web.WebPages.Razor.dll
+E:\WhereToStudy\WhereToStudy\bin\WebGrease.dll
+E:\WhereToStudy\WhereToStudy\bin\WhereToStudy.vModel.dll
+E:\WhereToStudy\WhereToStudy\bin\WhereToStudy.vRepository.dll
+E:\WhereToStudy\WhereToStudy\bin\WhereToStudy.vResources.dll
+E:\WhereToStudy\WhereToStudy\bin\WhereToStudy.vServices.dll
+E:\WhereToStudy\WhereToStudy\bin\WhereToStudy.vModel.pdb
+E:\WhereToStudy\WhereToStudy\bin\WhereToStudy.vRepository.pdb
+E:\WhereToStudy\WhereToStudy\bin\WhereToStudy.vResources.pdb
+E:\WhereToStudy\WhereToStudy\bin\WhereToStudy.vServices.pdb
+E:\WhereToStudy\WhereToStudy\bin\Dapper.xml
+E:\WhereToStudy\WhereToStudy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\WhereToStudy\WhereToStudy\bin\Ninject.xml
+E:\WhereToStudy\WhereToStudy\bin\Ninject.Web.Common.xml
+E:\WhereToStudy\WhereToStudy\bin\System.Web.Helpers.xml
+E:\WhereToStudy\WhereToStudy\bin\System.Web.Mvc.xml
+E:\WhereToStudy\WhereToStudy\bin\System.Web.Optimization.xml
+E:\WhereToStudy\WhereToStudy\bin\System.Web.Razor.xml
+E:\WhereToStudy\WhereToStudy\bin\System.Web.WebPages.xml
+E:\WhereToStudy\WhereToStudy\bin\System.Web.WebPages.Deployment.xml
+E:\WhereToStudy\WhereToStudy\bin\System.Web.WebPages.Razor.xml
+E:\WhereToStudy\WhereToStudy\bin\Antlr3.Runtime.pdb
+E:\WhereToStudy\WhereToStudy\bin\Newtonsoft.Json.xml
+E:\WhereToStudy\WhereToStudy\bin\EntityFramework.xml
+E:\WhereToStudy\WhereToStudy\bin\EntityFramework.SqlServer.xml
+E:\WhereToStudy\WhereToStudy\bin\Microsoft.AspNet.Identity.Core.xml
+E:\WhereToStudy\WhereToStudy\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\WhereToStudy\WhereToStudy\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\WhereToStudy\WhereToStudy\bin\Microsoft.Owin.xml
+E:\WhereToStudy\WhereToStudy\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\WhereToStudy\WhereToStudy\bin\Microsoft.Owin.Security.xml
+E:\WhereToStudy\WhereToStudy\bin\Microsoft.Owin.Security.Facebook.xml
+E:\WhereToStudy\WhereToStudy\bin\Microsoft.Owin.Security.Cookies.xml
+E:\WhereToStudy\WhereToStudy\bin\Microsoft.Owin.Security.OAuth.xml
+E:\WhereToStudy\WhereToStudy\bin\Microsoft.Owin.Security.Google.xml
+E:\WhereToStudy\WhereToStudy\bin\Microsoft.Owin.Security.Twitter.xml
+E:\WhereToStudy\WhereToStudy\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\WhereToStudy\WhereToStudy\bin\Microsoft.ApplicationInsights.xml
+E:\WhereToStudy\WhereToStudy\bin\Microsoft.AI.DependencyCollector.xml
+E:\WhereToStudy\WhereToStudy\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\WhereToStudy\WhereToStudy\bin\Microsoft.AI.WindowsServer.xml
+E:\WhereToStudy\WhereToStudy\bin\Microsoft.AI.Web.xml
+E:\WhereToStudy\WhereToStudy\bin\en\WhereToStudy.vResources.resources.dll
+E:\WhereToStudy\WhereToStudy\obj\Debug\EducationSystem.csprojResolveAssemblyReference.cache
+E:\WhereToStudy\WhereToStudy\obj\Debug\EducationSystem.csproj.CoreCompileInputs.cache
+E:\WhereToStudy\WhereToStudy\obj\Debug\EducationSystem.csproj.CopyComplete
+E:\WhereToStudy\WhereToStudy\obj\Debug\WhereToStudy.dll
+E:\WhereToStudy\WhereToStudy\obj\Debug\WhereToStudy.pdb
+E:\EducationSystem\WhereToStudy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\EducationSystem\WhereToStudy\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\EducationSystem\WhereToStudy\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\EducationSystem\WhereToStudy\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\EducationSystem\WhereToStudy\bin\roslyn\System.IO.Compression.dll
+E:\EducationSystem\WhereToStudy\bin\roslyn\VBCSCompiler.exe
+E:\EducationSystem\WhereToStudy\bin\ApplicationInsights.config
+E:\EducationSystem\WhereToStudy\bin\WhereToStudy.dll.config
+E:\EducationSystem\WhereToStudy\bin\WhereToStudy.dll
+E:\EducationSystem\WhereToStudy\bin\WhereToStudy.pdb
+E:\EducationSystem\WhereToStudy\bin\roslyn\csc.exe
+E:\EducationSystem\WhereToStudy\bin\roslyn\csc.exe.config
+E:\EducationSystem\WhereToStudy\bin\roslyn\csc.rsp
+E:\EducationSystem\WhereToStudy\bin\roslyn\csi.exe
+E:\EducationSystem\WhereToStudy\bin\roslyn\csi.exe.config
+E:\EducationSystem\WhereToStudy\bin\roslyn\csi.rsp
+E:\EducationSystem\WhereToStudy\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\EducationSystem\WhereToStudy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\EducationSystem\WhereToStudy\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\EducationSystem\WhereToStudy\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\EducationSystem\WhereToStudy\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\EducationSystem\WhereToStudy\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\EducationSystem\WhereToStudy\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\EducationSystem\WhereToStudy\bin\roslyn\System.AppContext.dll
+E:\EducationSystem\WhereToStudy\bin\roslyn\System.Console.dll
+E:\EducationSystem\WhereToStudy\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\EducationSystem\WhereToStudy\bin\roslyn\System.Diagnostics.Process.dll
+E:\EducationSystem\WhereToStudy\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\EducationSystem\WhereToStudy\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\EducationSystem\WhereToStudy\bin\roslyn\System.IO.Pipes.dll
+E:\EducationSystem\WhereToStudy\bin\roslyn\System.Reflection.Metadata.dll
+E:\EducationSystem\WhereToStudy\bin\roslyn\System.Security.AccessControl.dll
+E:\EducationSystem\WhereToStudy\bin\roslyn\System.Security.Claims.dll
+E:\EducationSystem\WhereToStudy\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\EducationSystem\WhereToStudy\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\EducationSystem\WhereToStudy\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\EducationSystem\WhereToStudy\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\EducationSystem\WhereToStudy\bin\roslyn\System.Security.Principal.Windows.dll
+E:\EducationSystem\WhereToStudy\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\EducationSystem\WhereToStudy\bin\roslyn\System.Threading.Thread.dll
+E:\EducationSystem\WhereToStudy\bin\roslyn\System.ValueTuple.dll
+E:\EducationSystem\WhereToStudy\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\EducationSystem\WhereToStudy\bin\roslyn\System.Xml.XmlDocument.dll
+E:\EducationSystem\WhereToStudy\bin\roslyn\System.Xml.XPath.dll
+E:\EducationSystem\WhereToStudy\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\EducationSystem\WhereToStudy\bin\roslyn\vbc.exe
+E:\EducationSystem\WhereToStudy\bin\roslyn\vbc.exe.config
+E:\EducationSystem\WhereToStudy\bin\roslyn\vbc.rsp
+E:\EducationSystem\WhereToStudy\bin\roslyn\VBCSCompiler.exe.config
+E:\EducationSystem\WhereToStudy\bin\Antlr3.Runtime.dll
+E:\EducationSystem\WhereToStudy\bin\Dapper.dll
+E:\EducationSystem\WhereToStudy\bin\EntityFramework.dll
+E:\EducationSystem\WhereToStudy\bin\EntityFramework.SqlServer.dll
+E:\EducationSystem\WhereToStudy\bin\Microsoft.AI.Agent.Intercept.dll
+E:\EducationSystem\WhereToStudy\bin\Microsoft.AI.DependencyCollector.dll
+E:\EducationSystem\WhereToStudy\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\EducationSystem\WhereToStudy\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\EducationSystem\WhereToStudy\bin\Microsoft.AI.Web.dll
+E:\EducationSystem\WhereToStudy\bin\Microsoft.AI.WindowsServer.dll
+E:\EducationSystem\WhereToStudy\bin\Microsoft.ApplicationInsights.dll
+E:\EducationSystem\WhereToStudy\bin\Microsoft.AspNet.Identity.Core.dll
+E:\EducationSystem\WhereToStudy\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\EducationSystem\WhereToStudy\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\EducationSystem\WhereToStudy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\EducationSystem\WhereToStudy\bin\Microsoft.Owin.dll
+E:\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.Cookies.dll
+E:\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.dll
+E:\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.Facebook.dll
+E:\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.Google.dll
+E:\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.OAuth.dll
+E:\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.Twitter.dll
+E:\EducationSystem\WhereToStudy\bin\Microsoft.Web.Infrastructure.dll
+E:\EducationSystem\WhereToStudy\bin\Newtonsoft.Json.dll
+E:\EducationSystem\WhereToStudy\bin\Ninject.dll
+E:\EducationSystem\WhereToStudy\bin\Ninject.Web.Common.dll
+E:\EducationSystem\WhereToStudy\bin\Owin.dll
+E:\EducationSystem\WhereToStudy\bin\System.Web.Helpers.dll
+E:\EducationSystem\WhereToStudy\bin\System.Web.Mvc.dll
+E:\EducationSystem\WhereToStudy\bin\System.Web.Optimization.dll
+E:\EducationSystem\WhereToStudy\bin\System.Web.Razor.dll
+E:\EducationSystem\WhereToStudy\bin\System.Web.WebPages.Deployment.dll
+E:\EducationSystem\WhereToStudy\bin\System.Web.WebPages.dll
+E:\EducationSystem\WhereToStudy\bin\System.Web.WebPages.Razor.dll
+E:\EducationSystem\WhereToStudy\bin\WebGrease.dll
+E:\EducationSystem\WhereToStudy\bin\WhereToStudy.vModel.dll
+E:\EducationSystem\WhereToStudy\bin\WhereToStudy.vRepository.dll
+E:\EducationSystem\WhereToStudy\bin\WhereToStudy.vResources.dll
+E:\EducationSystem\WhereToStudy\bin\WhereToStudy.vServices.dll
+E:\EducationSystem\WhereToStudy\bin\WhereToStudy.vModel.pdb
+E:\EducationSystem\WhereToStudy\bin\WhereToStudy.vRepository.pdb
+E:\EducationSystem\WhereToStudy\bin\WhereToStudy.vResources.pdb
+E:\EducationSystem\WhereToStudy\bin\WhereToStudy.vServices.pdb
+E:\EducationSystem\WhereToStudy\bin\Dapper.xml
+E:\EducationSystem\WhereToStudy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\EducationSystem\WhereToStudy\bin\Ninject.xml
+E:\EducationSystem\WhereToStudy\bin\Ninject.Web.Common.xml
+E:\EducationSystem\WhereToStudy\bin\System.Web.Helpers.xml
+E:\EducationSystem\WhereToStudy\bin\System.Web.Mvc.xml
+E:\EducationSystem\WhereToStudy\bin\System.Web.Optimization.xml
+E:\EducationSystem\WhereToStudy\bin\System.Web.Razor.xml
+E:\EducationSystem\WhereToStudy\bin\System.Web.WebPages.xml
+E:\EducationSystem\WhereToStudy\bin\System.Web.WebPages.Deployment.xml
+E:\EducationSystem\WhereToStudy\bin\System.Web.WebPages.Razor.xml
+E:\EducationSystem\WhereToStudy\bin\Antlr3.Runtime.pdb
+E:\EducationSystem\WhereToStudy\bin\Newtonsoft.Json.xml
+E:\EducationSystem\WhereToStudy\bin\EntityFramework.xml
+E:\EducationSystem\WhereToStudy\bin\EntityFramework.SqlServer.xml
+E:\EducationSystem\WhereToStudy\bin\Microsoft.AspNet.Identity.Core.xml
+E:\EducationSystem\WhereToStudy\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\EducationSystem\WhereToStudy\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\EducationSystem\WhereToStudy\bin\Microsoft.Owin.xml
+E:\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.xml
+E:\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.Facebook.xml
+E:\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.Cookies.xml
+E:\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.OAuth.xml
+E:\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.Google.xml
+E:\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.Twitter.xml
+E:\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\EducationSystem\WhereToStudy\bin\Microsoft.ApplicationInsights.xml
+E:\EducationSystem\WhereToStudy\bin\Microsoft.AI.DependencyCollector.xml
+E:\EducationSystem\WhereToStudy\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\EducationSystem\WhereToStudy\bin\Microsoft.AI.WindowsServer.xml
+E:\EducationSystem\WhereToStudy\bin\Microsoft.AI.Web.xml
+E:\EducationSystem\WhereToStudy\bin\en\WhereToStudy.vResources.resources.dll
+E:\EducationSystem\WhereToStudy\obj\Debug\EducationSystem.csprojResolveAssemblyReference.cache
+E:\EducationSystem\WhereToStudy\obj\Debug\EducationSystem.csproj.CoreCompileInputs.cache
+E:\EducationSystem\WhereToStudy\obj\Debug\EducationSystem.csproj.CopyComplete
+E:\EducationSystem\WhereToStudy\obj\Debug\WhereToStudy.dll
+E:\EducationSystem\WhereToStudy\obj\Debug\WhereToStudy.pdb
+E:\EducationSystem\WhereToStudy\bin\roslyn\System.Collections.Immutable.dll
+E:\EducationSystem\WhereToStudy\bin\roslyn\System.IO.FileSystem.dll
+E:\EducationSystem\WhereToStudy\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\roslyn\System.IO.Compression.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\roslyn\VBCSCompiler.exe
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\ApplicationInsights.config
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\WhereToStudy.dll.config
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\WhereToStudy.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\WhereToStudy.pdb
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\roslyn\csc.exe
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\roslyn\csc.exe.config
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\roslyn\csc.rsp
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\roslyn\csi.exe
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\roslyn\csi.exe.config
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\roslyn\csi.rsp
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\roslyn\System.AppContext.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\roslyn\System.Collections.Immutable.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\roslyn\System.Console.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\roslyn\System.Diagnostics.Process.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\roslyn\System.IO.FileSystem.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\roslyn\System.IO.Pipes.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\roslyn\System.Reflection.Metadata.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\roslyn\System.Security.AccessControl.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\roslyn\System.Security.Claims.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\roslyn\System.Threading.Thread.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\roslyn\System.ValueTuple.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\roslyn\System.Xml.XPath.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\roslyn\vbc.exe
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\roslyn\vbc.exe.config
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\roslyn\vbc.rsp
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\roslyn\VBCSCompiler.exe.config
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\Antlr3.Runtime.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\Dapper.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\EntityFramework.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\EntityFramework.SqlServer.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\Microsoft.AI.DependencyCollector.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\Microsoft.AI.Web.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\Microsoft.AI.WindowsServer.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\Microsoft.ApplicationInsights.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\Microsoft.Owin.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.Google.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\Microsoft.Web.Infrastructure.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\Newtonsoft.Json.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\Ninject.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\Ninject.Web.Common.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\Owin.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\System.Web.Helpers.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\System.Web.Mvc.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\System.Web.Optimization.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\System.Web.Razor.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\System.Web.WebPages.Deployment.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\System.Web.WebPages.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\System.Web.WebPages.Razor.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\WebGrease.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\WhereToStudy.vModel.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\WhereToStudy.vRepository.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\WhereToStudy.vResources.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\WhereToStudy.vServices.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\WhereToStudy.vModel.pdb
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\WhereToStudy.vRepository.pdb
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\WhereToStudy.vResources.pdb
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\WhereToStudy.vServices.pdb
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\Dapper.xml
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\Ninject.xml
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\Ninject.Web.Common.xml
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\System.Web.Helpers.xml
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\System.Web.Mvc.xml
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\System.Web.Optimization.xml
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\System.Web.Razor.xml
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\System.Web.WebPages.xml
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\System.Web.WebPages.Deployment.xml
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\System.Web.WebPages.Razor.xml
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\Antlr3.Runtime.pdb
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\Newtonsoft.Json.xml
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\EntityFramework.xml
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\EntityFramework.SqlServer.xml
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\Microsoft.Owin.xml
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.xml
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.Google.xml
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\Microsoft.ApplicationInsights.xml
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\Microsoft.AI.DependencyCollector.xml
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\Microsoft.AI.WindowsServer.xml
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\Microsoft.AI.Web.xml
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\bin\en\WhereToStudy.vResources.resources.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\obj\Debug\EducationSystem.csprojResolveAssemblyReference.cache
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\obj\Debug\EducationSystem.csproj.CoreCompileInputs.cache
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\obj\Debug\WhereToStudy.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy\obj\Debug\WhereToStudy.pdb
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\ApplicationInsights.config
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\WhereToStudy.dll.config
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\WhereToStudy.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\WhereToStudy.pdb
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\csc.exe
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\csc.exe.config
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\csc.rsp
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\csi.exe
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\csi.exe.config
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\csi.rsp
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.AppContext.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.Collections.Immutable.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.Console.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.Diagnostics.Process.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.IO.Compression.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.IO.FileSystem.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.IO.Pipes.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.Reflection.Metadata.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.Security.AccessControl.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.Security.Claims.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.Security.Principal.Windows.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.Threading.Thread.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.ValueTuple.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.Xml.XmlDocument.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.Xml.XPath.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\vbc.exe
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\vbc.exe.config
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\vbc.rsp
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\VBCSCompiler.exe
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\VBCSCompiler.exe.config
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\Antlr3.Runtime.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\Dapper.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\EntityFramework.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\EntityFramework.SqlServer.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.AI.Agent.Intercept.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.AI.DependencyCollector.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.AI.Web.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.AI.WindowsServer.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.ApplicationInsights.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.AspNet.Identity.Core.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.Owin.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.Cookies.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.Facebook.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.Google.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.OAuth.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.Twitter.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.Web.Infrastructure.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\Newtonsoft.Json.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\Ninject.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\Ninject.Web.Common.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\Owin.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\System.Web.Helpers.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\System.Web.Mvc.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\System.Web.Optimization.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\System.Web.Razor.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\System.Web.WebPages.Deployment.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\System.Web.WebPages.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\System.Web.WebPages.Razor.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\WebGrease.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\WhereToStudy.vModel.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\WhereToStudy.vRepository.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\WhereToStudy.vResources.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\WhereToStudy.vServices.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\WhereToStudy.vModel.pdb
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\WhereToStudy.vRepository.pdb
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\WhereToStudy.vResources.pdb
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\WhereToStudy.vServices.pdb
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\Dapper.xml
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\Ninject.xml
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\Ninject.Web.Common.xml
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\System.Web.Helpers.xml
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\System.Web.Mvc.xml
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\System.Web.Optimization.xml
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\System.Web.Razor.xml
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\System.Web.WebPages.xml
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\System.Web.WebPages.Deployment.xml
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\System.Web.WebPages.Razor.xml
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\Antlr3.Runtime.pdb
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\Newtonsoft.Json.xml
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\EntityFramework.xml
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\EntityFramework.SqlServer.xml
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.AspNet.Identity.Core.xml
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.Owin.xml
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.xml
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.Facebook.xml
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.Cookies.xml
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.OAuth.xml
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.Google.xml
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.Twitter.xml
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.ApplicationInsights.xml
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.AI.DependencyCollector.xml
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.AI.WindowsServer.xml
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.AI.Web.xml
+E:\EducationSystem\EducationSystem\WhereToStudy\bin\en\WhereToStudy.vResources.resources.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\obj\Debug\EducationSystem.csprojResolveAssemblyReference.cache
+E:\EducationSystem\EducationSystem\WhereToStudy\obj\Debug\EducationSystem.csproj.CoreCompileInputs.cache
+E:\EducationSystem\EducationSystem\WhereToStudy\obj\Debug\EducationSystem.csproj.CopyComplete
+E:\EducationSystem\EducationSystem\WhereToStudy\obj\Debug\WhereToStudy.dll
+E:\EducationSystem\EducationSystem\WhereToStudy\obj\Debug\WhereToStudy.pdb
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\ApplicationInsights.config
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\WhereToStudy.dll.config
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\WhereToStudy.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\WhereToStudy.pdb
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\csc.exe
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\csc.exe.config
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\csc.rsp
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\csi.exe
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\csi.exe.config
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\csi.rsp
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.AppContext.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.Collections.Immutable.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.Console.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.Diagnostics.Process.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.IO.Compression.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.IO.FileSystem.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.IO.Pipes.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.Reflection.Metadata.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.Security.AccessControl.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.Security.Claims.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.Threading.Thread.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.ValueTuple.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.Xml.XPath.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\vbc.exe
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\vbc.exe.config
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\vbc.rsp
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\VBCSCompiler.exe
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\VBCSCompiler.exe.config
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Antlr3.Runtime.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Dapper.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\EntityFramework.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\EntityFramework.SqlServer.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.AI.DependencyCollector.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.AI.Web.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.AI.WindowsServer.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.ApplicationInsights.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.Owin.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.Google.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.Web.Infrastructure.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Newtonsoft.Json.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Ninject.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Ninject.Web.Common.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Owin.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\System.Web.Helpers.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\System.Web.Mvc.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\System.Web.Optimization.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\System.Web.Razor.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\System.Web.WebPages.Deployment.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\System.Web.WebPages.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\System.Web.WebPages.Razor.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\WebGrease.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\WhereToStudy.vModel.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\WhereToStudy.vRepository.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\WhereToStudy.vResources.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\WhereToStudy.vServices.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\WhereToStudy.vModel.pdb
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\WhereToStudy.vRepository.pdb
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\WhereToStudy.vResources.pdb
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\WhereToStudy.vServices.pdb
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Dapper.xml
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Ninject.xml
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Ninject.Web.Common.xml
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\System.Web.Helpers.xml
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\System.Web.Mvc.xml
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\System.Web.Optimization.xml
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\System.Web.Razor.xml
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\System.Web.WebPages.xml
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\System.Web.WebPages.Deployment.xml
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\System.Web.WebPages.Razor.xml
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Antlr3.Runtime.pdb
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Newtonsoft.Json.xml
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\EntityFramework.xml
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\EntityFramework.SqlServer.xml
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.Owin.xml
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.xml
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.Google.xml
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.ApplicationInsights.xml
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.AI.DependencyCollector.xml
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.AI.WindowsServer.xml
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.AI.Web.xml
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\en\WhereToStudy.vResources.resources.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\obj\Debug\EducationSystem.csprojResolveAssemblyReference.cache
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\obj\Debug\EducationSystem.csproj.CoreCompileInputs.cache
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\obj\Debug\EducationSystem.csproj.CopyComplete
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\obj\Debug\WhereToStudy.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy\obj\Debug\WhereToStudy.pdb
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.IO.Compression.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\VBCSCompiler.exe
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\ApplicationInsights.config
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\WhereToStudy.dll.config
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\WhereToStudy.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\WhereToStudy.pdb
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\csc.exe
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\csc.exe.config
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\csc.rsp
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\csi.exe
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\csi.exe.config
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\csi.rsp
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.AppContext.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.Console.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.Diagnostics.Process.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.IO.Pipes.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.Reflection.Metadata.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.Security.AccessControl.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.Security.Claims.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.Threading.Thread.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.ValueTuple.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.Xml.XPath.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\vbc.exe
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\vbc.exe.config
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\vbc.rsp
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\VBCSCompiler.exe.config
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Antlr3.Runtime.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Dapper.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\EntityFramework.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\EntityFramework.SqlServer.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.AI.DependencyCollector.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.AI.Web.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.AI.WindowsServer.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.ApplicationInsights.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.Owin.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.Google.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.Web.Infrastructure.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Newtonsoft.Json.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Ninject.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Ninject.Web.Common.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Owin.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\System.Web.Helpers.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\System.Web.Mvc.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\System.Web.Optimization.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\System.Web.Razor.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\System.Web.WebPages.Deployment.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\System.Web.WebPages.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\System.Web.WebPages.Razor.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\WebGrease.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\WhereToStudy.vModel.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\WhereToStudy.vRepository.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\WhereToStudy.vResources.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\WhereToStudy.vServices.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\WhereToStudy.vModel.pdb
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\WhereToStudy.vRepository.pdb
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\WhereToStudy.vResources.pdb
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\WhereToStudy.vServices.pdb
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Dapper.xml
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Ninject.xml
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Ninject.Web.Common.xml
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\System.Web.Helpers.xml
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\System.Web.Mvc.xml
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\System.Web.Optimization.xml
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\System.Web.Razor.xml
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\System.Web.WebPages.xml
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\System.Web.WebPages.Deployment.xml
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\System.Web.WebPages.Razor.xml
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Antlr3.Runtime.pdb
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Newtonsoft.Json.xml
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\EntityFramework.xml
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\EntityFramework.SqlServer.xml
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.Owin.xml
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.xml
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.Google.xml
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.ApplicationInsights.xml
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.AI.DependencyCollector.xml
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.AI.WindowsServer.xml
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\Microsoft.AI.Web.xml
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\en\WhereToStudy.vResources.resources.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\obj\Debug\EducationSystem.csprojAssemblyReference.cache
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\obj\Debug\EducationSystem.csproj.CoreCompileInputs.cache
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\obj\Debug\EducationSystem.csproj.CopyComplete
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\obj\Debug\WhereToStudy.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\obj\Debug\WhereToStudy.pdb
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.Collections.Immutable.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.IO.FileSystem.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\ApplicationInsights.config
+E:\ВИви\EducationSystem\WhereToStudy\bin\WhereToStudy.dll.config
+E:\ВИви\EducationSystem\WhereToStudy\bin\WhereToStudy.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\WhereToStudy.pdb
+E:\ВИви\EducationSystem\WhereToStudy\bin\roslyn\csc.exe
+E:\ВИви\EducationSystem\WhereToStudy\bin\roslyn\csc.exe.config
+E:\ВИви\EducationSystem\WhereToStudy\bin\roslyn\csc.rsp
+E:\ВИви\EducationSystem\WhereToStudy\bin\roslyn\csi.exe
+E:\ВИви\EducationSystem\WhereToStudy\bin\roslyn\csi.exe.config
+E:\ВИви\EducationSystem\WhereToStudy\bin\roslyn\csi.rsp
+E:\ВИви\EducationSystem\WhereToStudy\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ВИви\EducationSystem\WhereToStudy\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ВИви\EducationSystem\WhereToStudy\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\roslyn\System.AppContext.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\roslyn\System.Collections.Immutable.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\roslyn\System.Console.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\roslyn\System.Diagnostics.Process.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\roslyn\System.IO.Compression.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\roslyn\System.IO.FileSystem.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\roslyn\System.IO.Pipes.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\roslyn\System.Reflection.Metadata.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\roslyn\System.Security.AccessControl.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\roslyn\System.Security.Claims.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\roslyn\System.Security.Principal.Windows.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\roslyn\System.Threading.Thread.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\roslyn\System.ValueTuple.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\roslyn\System.Xml.XmlDocument.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\roslyn\System.Xml.XPath.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\roslyn\vbc.exe
+E:\ВИви\EducationSystem\WhereToStudy\bin\roslyn\vbc.exe.config
+E:\ВИви\EducationSystem\WhereToStudy\bin\roslyn\vbc.rsp
+E:\ВИви\EducationSystem\WhereToStudy\bin\roslyn\VBCSCompiler.exe
+E:\ВИви\EducationSystem\WhereToStudy\bin\roslyn\VBCSCompiler.exe.config
+E:\ВИви\EducationSystem\WhereToStudy\bin\Antlr3.Runtime.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\Dapper.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\EntityFramework.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\EntityFramework.SqlServer.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\Microsoft.AI.Agent.Intercept.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\Microsoft.AI.DependencyCollector.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\Microsoft.AI.Web.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\Microsoft.AI.WindowsServer.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\Microsoft.ApplicationInsights.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\Microsoft.AspNet.Identity.Core.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\Microsoft.Owin.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.Cookies.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.Facebook.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.Google.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.OAuth.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.Twitter.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\Microsoft.Web.Infrastructure.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\Newtonsoft.Json.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\Ninject.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\Ninject.Web.Common.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\Owin.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\System.Web.Helpers.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\System.Web.Mvc.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\System.Web.Optimization.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\System.Web.Razor.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\System.Web.WebPages.Deployment.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\System.Web.WebPages.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\System.Web.WebPages.Razor.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\WebGrease.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\WhereToStudy.vModel.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\WhereToStudy.vRepository.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\WhereToStudy.vResources.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\WhereToStudy.vServices.dll
+E:\ВИви\EducationSystem\WhereToStudy\bin\WhereToStudy.vModel.pdb
+E:\ВИви\EducationSystem\WhereToStudy\bin\WhereToStudy.vRepository.pdb
+E:\ВИви\EducationSystem\WhereToStudy\bin\WhereToStudy.vResources.pdb
+E:\ВИви\EducationSystem\WhereToStudy\bin\WhereToStudy.vServices.pdb
+E:\ВИви\EducationSystem\WhereToStudy\bin\Dapper.xml
+E:\ВИви\EducationSystem\WhereToStudy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ВИви\EducationSystem\WhereToStudy\bin\Ninject.xml
+E:\ВИви\EducationSystem\WhereToStudy\bin\Ninject.Web.Common.xml
+E:\ВИви\EducationSystem\WhereToStudy\bin\System.Web.Helpers.xml
+E:\ВИви\EducationSystem\WhereToStudy\bin\System.Web.Mvc.xml
+E:\ВИви\EducationSystem\WhereToStudy\bin\System.Web.Optimization.xml
+E:\ВИви\EducationSystem\WhereToStudy\bin\System.Web.Razor.xml
+E:\ВИви\EducationSystem\WhereToStudy\bin\System.Web.WebPages.xml
+E:\ВИви\EducationSystem\WhereToStudy\bin\System.Web.WebPages.Deployment.xml
+E:\ВИви\EducationSystem\WhereToStudy\bin\System.Web.WebPages.Razor.xml
+E:\ВИви\EducationSystem\WhereToStudy\bin\Antlr3.Runtime.pdb
+E:\ВИви\EducationSystem\WhereToStudy\bin\Newtonsoft.Json.xml
+E:\ВИви\EducationSystem\WhereToStudy\bin\EntityFramework.xml
+E:\ВИви\EducationSystem\WhereToStudy\bin\EntityFramework.SqlServer.xml
+E:\ВИви\EducationSystem\WhereToStudy\bin\Microsoft.AspNet.Identity.Core.xml
+E:\ВИви\EducationSystem\WhereToStudy\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\ВИви\EducationSystem\WhereToStudy\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\ВИви\EducationSystem\WhereToStudy\bin\Microsoft.Owin.xml
+E:\ВИви\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\ВИви\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.xml
+E:\ВИви\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.Facebook.xml
+E:\ВИви\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.Cookies.xml
+E:\ВИви\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.OAuth.xml
+E:\ВИви\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.Google.xml
+E:\ВИви\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.Twitter.xml
+E:\ВИви\EducationSystem\WhereToStudy\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\ВИви\EducationSystem\WhereToStudy\bin\Microsoft.ApplicationInsights.xml
+E:\ВИви\EducationSystem\WhereToStudy\bin\Microsoft.AI.DependencyCollector.xml
+E:\ВИви\EducationSystem\WhereToStudy\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\ВИви\EducationSystem\WhereToStudy\bin\Microsoft.AI.WindowsServer.xml
+E:\ВИви\EducationSystem\WhereToStudy\bin\Microsoft.AI.Web.xml
+E:\ВИви\EducationSystem\WhereToStudy\bin\en\WhereToStudy.vResources.resources.dll
+E:\ВИви\EducationSystem\WhereToStudy\obj\Debug\EducationSystem.csprojAssemblyReference.cache
+E:\ВИви\EducationSystem\WhereToStudy\obj\Debug\EducationSystem.csproj.CoreCompileInputs.cache
+E:\ВИви\EducationSystem\WhereToStudy\obj\Debug\EducationSystem.csproj.CopyComplete
+E:\ВИви\EducationSystem\WhereToStudy\obj\Debug\WhereToStudy.dll
+E:\ВИви\EducationSystem\WhereToStudy\obj\Debug\WhereToStudy.pdb

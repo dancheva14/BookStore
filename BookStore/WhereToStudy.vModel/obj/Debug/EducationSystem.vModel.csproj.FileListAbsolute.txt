@@ -1,0 +1,70 @@
+E:\WhereToStudy\WhereToStudy.vModel\bin\Debug\WhereToStudy.vModel.dll
+E:\WhereToStudy\WhereToStudy.vModel\bin\Debug\WhereToStudy.vModel.pdb
+E:\WhereToStudy\WhereToStudy.vModel\bin\Debug\System.ComponentModel.Annotations.dll
+E:\WhereToStudy\WhereToStudy.vModel\bin\Debug\WhereToStudy.vResources.dll
+E:\WhereToStudy\WhereToStudy.vModel\bin\Debug\WhereToStudy.vResources.pdb
+E:\WhereToStudy\WhereToStudy.vModel\bin\Debug\en\WhereToStudy.vResources.resources.dll
+E:\WhereToStudy\WhereToStudy.vModel\obj\Debug\EducationSystem.vModel.csprojResolveAssemblyReference.cache
+E:\WhereToStudy\WhereToStudy.vModel\obj\Debug\EducationSystem.vModel.csproj.CoreCompileInputs.cache
+E:\WhereToStudy\WhereToStudy.vModel\obj\Debug\EducationSystem.vModel.csproj.CopyComplete
+E:\WhereToStudy\WhereToStudy.vModel\obj\Debug\WhereToStudy.vModel.dll
+E:\WhereToStudy\WhereToStudy.vModel\obj\Debug\WhereToStudy.vModel.pdb
+E:\EducationSystem\WhereToStudy.vModel\bin\Debug\WhereToStudy.vModel.dll
+E:\EducationSystem\WhereToStudy.vModel\bin\Debug\WhereToStudy.vModel.pdb
+E:\EducationSystem\WhereToStudy.vModel\bin\Debug\System.ComponentModel.Annotations.dll
+E:\EducationSystem\WhereToStudy.vModel\bin\Debug\WhereToStudy.vResources.dll
+E:\EducationSystem\WhereToStudy.vModel\bin\Debug\WhereToStudy.vResources.pdb
+E:\EducationSystem\WhereToStudy.vModel\bin\Debug\en\WhereToStudy.vResources.resources.dll
+E:\EducationSystem\WhereToStudy.vModel\obj\Debug\EducationSystem.vModel.csprojResolveAssemblyReference.cache
+E:\EducationSystem\WhereToStudy.vModel\obj\Debug\EducationSystem.vModel.csproj.CoreCompileInputs.cache
+E:\EducationSystem\WhereToStudy.vModel\obj\Debug\EducationSystem.vModel.csproj.CopyComplete
+E:\EducationSystem\WhereToStudy.vModel\obj\Debug\WhereToStudy.vModel.dll
+E:\EducationSystem\WhereToStudy.vModel\obj\Debug\WhereToStudy.vModel.pdb
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy.vModel\bin\Debug\WhereToStudy.vModel.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy.vModel\bin\Debug\WhereToStudy.vModel.pdb
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy.vModel\bin\Debug\System.ComponentModel.Annotations.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy.vModel\bin\Debug\WhereToStudy.vResources.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy.vModel\bin\Debug\WhereToStudy.vResources.pdb
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy.vModel\bin\Debug\en\WhereToStudy.vResources.resources.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy.vModel\obj\Debug\EducationSystem.vModel.csprojResolveAssemblyReference.cache
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy.vModel\obj\Debug\EducationSystem.vModel.csproj.CoreCompileInputs.cache
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy.vModel\obj\Debug\WhereToStudy.vModel.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy.vModel\obj\Debug\WhereToStudy.vModel.pdb
+E:\EducationSystem\EducationSystem\WhereToStudy.vModel\bin\Debug\WhereToStudy.vModel.dll
+E:\EducationSystem\EducationSystem\WhereToStudy.vModel\bin\Debug\WhereToStudy.vModel.pdb
+E:\EducationSystem\EducationSystem\WhereToStudy.vModel\bin\Debug\System.ComponentModel.Annotations.dll
+E:\EducationSystem\EducationSystem\WhereToStudy.vModel\bin\Debug\WhereToStudy.vResources.dll
+E:\EducationSystem\EducationSystem\WhereToStudy.vModel\bin\Debug\WhereToStudy.vResources.pdb
+E:\EducationSystem\EducationSystem\WhereToStudy.vModel\bin\Debug\en\WhereToStudy.vResources.resources.dll
+E:\EducationSystem\EducationSystem\WhereToStudy.vModel\obj\Debug\EducationSystem.vModel.csprojResolveAssemblyReference.cache
+E:\EducationSystem\EducationSystem\WhereToStudy.vModel\obj\Debug\EducationSystem.vModel.csproj.CoreCompileInputs.cache
+E:\EducationSystem\EducationSystem\WhereToStudy.vModel\obj\Debug\EducationSystem.vModel.csproj.CopyComplete
+E:\EducationSystem\EducationSystem\WhereToStudy.vModel\obj\Debug\WhereToStudy.vModel.dll
+E:\EducationSystem\EducationSystem\WhereToStudy.vModel\obj\Debug\WhereToStudy.vModel.pdb
+E:\Me\EducationSystem\EducationSystem\WhereToStudy.vModel\bin\Debug\WhereToStudy.vModel.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy.vModel\bin\Debug\WhereToStudy.vModel.pdb
+E:\Me\EducationSystem\EducationSystem\WhereToStudy.vModel\bin\Debug\System.ComponentModel.Annotations.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy.vModel\bin\Debug\WhereToStudy.vResources.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy.vModel\bin\Debug\WhereToStudy.vResources.pdb
+E:\Me\EducationSystem\EducationSystem\WhereToStudy.vModel\bin\Debug\en\WhereToStudy.vResources.resources.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy.vModel\obj\Debug\EducationSystem.vModel.csprojResolveAssemblyReference.cache
+E:\Me\EducationSystem\EducationSystem\WhereToStudy.vModel\obj\Debug\EducationSystem.vModel.csproj.CoreCompileInputs.cache
+E:\Me\EducationSystem\EducationSystem\WhereToStudy.vModel\obj\Debug\EducationSystem.vModel.csproj.CopyComplete
+E:\Me\EducationSystem\EducationSystem\WhereToStudy.vModel\obj\Debug\WhereToStudy.vModel.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy.vModel\obj\Debug\WhereToStudy.vModel.pdb
+D:\Me\EducationSystem\EducationSystem\WhereToStudy.vModel\bin\Debug\WhereToStudy.vModel.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy.vModel\bin\Debug\WhereToStudy.vModel.pdb
+D:\Me\EducationSystem\EducationSystem\WhereToStudy.vModel\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy.vModel\obj\Debug\EducationSystem.vModel.csproj.CoreCompileInputs.cache
+D:\Me\EducationSystem\EducationSystem\WhereToStudy.vModel\obj\Debug\EducationSystem.vModel.csproj.CopyComplete
+D:\Me\EducationSystem\EducationSystem\WhereToStudy.vModel\obj\Debug\WhereToStudy.vModel.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy.vModel\obj\Debug\WhereToStudy.vModel.pdb
+D:\Me\EducationSystem\EducationSystem\WhereToStudy.vModel\obj\Debug\EducationSystem.vModel.csprojAssemblyReference.cache
+E:\ВИви\EducationSystem\WhereToStudy.vModel\bin\Debug\WhereToStudy.vModel.dll
+E:\ВИви\EducationSystem\WhereToStudy.vModel\bin\Debug\WhereToStudy.vModel.pdb
+E:\ВИви\EducationSystem\WhereToStudy.vModel\bin\Debug\System.ComponentModel.Annotations.dll
+E:\ВИви\EducationSystem\WhereToStudy.vModel\obj\Debug\EducationSystem.vModel.csprojAssemblyReference.cache
+E:\ВИви\EducationSystem\WhereToStudy.vModel\obj\Debug\EducationSystem.vModel.csproj.CoreCompileInputs.cache
+E:\ВИви\EducationSystem\WhereToStudy.vModel\obj\Debug\EducationSystem.vModel.csproj.CopyComplete
+E:\ВИви\EducationSystem\WhereToStudy.vModel\obj\Debug\WhereToStudy.vModel.dll
+E:\ВИви\EducationSystem\WhereToStudy.vModel\obj\Debug\WhereToStudy.vModel.pdb

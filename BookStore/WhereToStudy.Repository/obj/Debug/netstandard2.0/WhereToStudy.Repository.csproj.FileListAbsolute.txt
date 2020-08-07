@@ -1,0 +1,6 @@
+C:\Projects\WhereToStudy\WhereToStudy.Repository\bin\Debug\netstandard2.0\WhereToStudy.Repository.deps.json
+C:\Projects\WhereToStudy\WhereToStudy.Repository\bin\Debug\netstandard2.0\WhereToStudy.Repository.dll
+C:\Projects\WhereToStudy\WhereToStudy.Repository\obj\Debug\netstandard2.0\WhereToStudy.Repository.csprojResolveAssemblyReference.cache
+C:\Projects\WhereToStudy\WhereToStudy.Repository\obj\Debug\netstandard2.0\WhereToStudy.Repository.csproj.CoreCompileInputs.cache
+C:\Projects\WhereToStudy\WhereToStudy.Repository\obj\Debug\netstandard2.0\WhereToStudy.Repository.AssemblyInfoInputs.cache
+C:\Projects\WhereToStudy\WhereToStudy.Repository\obj\Debug\netstandard2.0\WhereToStudy.Repository.AssemblyInfo.cs

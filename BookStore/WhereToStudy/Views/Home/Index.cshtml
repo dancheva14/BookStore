@@ -1,0 +1,29 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+
+<div>
+    <h2>@WhereToStudy.vResources.Resource.strSystemTrainingProfile</h2>
+</div>
+
+<div class="jumbotron">
+    <h1>   </h1>
+    <p class="lead" style="height:100px;">
+    </p>
+    <p><a href="@Url.Action("Index", "Specialties")" class="btn btn-primary btn-lg">"" &raquo;</a></p>
+</div>
+
+<div class="row">
+    <div class="col-md-4">
+        <h2>Провери наличност</h2>
+        <p>Провери какви артикули има налични на склад.</p>
+        <p><a class="btn btn-default" href="@Url.Action("Index", "Availability")">Провери &raquo;</a></p>
+    </div>
+    <div class="col-md-4">
+        <h2>Доставка</h2>
+        <p>Въведи артикулите от доставката.</p>
+        <p><a class="btn btn-default" href="@Url.Action("Index", "Deliveries")">Научи повече &raquo;</a></p>
+    </div>
+</div>
+

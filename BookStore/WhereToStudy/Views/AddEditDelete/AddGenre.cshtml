@@ -1,0 +1,31 @@
+﻿@model BookStore.vModel.Genre
+@{
+    ViewBag.Title = "AddGenre";
+}
+
+<h2>Добави жанр</h2>
+@using (Html.BeginForm())
+{
+    <div style="width:900px;">
+        <fieldset>
+            @Html.HiddenFor(m => m.Id)
+
+            <div style="float:left; width: 500px;">
+                <div class="editor-label">@Html.LabelFor(s => s.Name)</div>
+                <div class="editor-field">
+                    <input class="form-control"
+                           id="Name"
+                           name="Name"
+                           type="text"
+                           placeholder="Име" />
+                    @Html.ValidationMessageFor(s => s.Name)
+                </div>
+                <br />
+                <div>
+                    <input class="col-lg-10" type="submit" value=Запази />
+                </div>
+            </div>
+        </fieldset>
+    </div>
+
+}

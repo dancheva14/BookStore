@@ -1,0 +1,28 @@
+﻿@model IEnumerable<BookStore.vModel.Types>
+@{
+    ViewBag.Title = "DeleteType";
+}
+@if (ViewBag.Message != null)
+{
+    <span><b>@ViewData["Message"]</b></span>
+}
+<h2>Типове</h2>
+
+<div class="courses-list">
+
+    <table>
+        <tr>
+            <th>Тип </th>
+            <th>| Изтриване | </th>
+            <th>Редакция</th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td> @Html.Label(item.Name)</td>
+                <td><a href="@Url.Action("DeleteType", "AddEditDelete", new { id = item.Id }, null)">Изтрии</a> </td>
+                <td><a href="@Url.Action("EditType", "AddEditDelete", new { id = item.Id }, null)">Редактирай</a> </td>
+            </tr>
+        }
+    </table>
+</div>

@@ -1,0 +1,16 @@
+C:\Projects\WhereToStudy\WhereToStudy.vServices\bin\Debug\WhereToStudy.vServices.dll
+C:\Projects\WhereToStudy\WhereToStudy.vServices\bin\Debug\WhereToStudy.vServices.pdb
+C:\Projects\WhereToStudy\WhereToStudy.vServices\bin\Debug\WhereToStudy.vModel.dll
+C:\Projects\WhereToStudy\WhereToStudy.vServices\bin\Debug\WhereToStudy.vRepository.dll
+C:\Projects\WhereToStudy\WhereToStudy.vServices\bin\Debug\WhereToStudy.vResources.dll
+C:\Projects\WhereToStudy\WhereToStudy.vServices\bin\Debug\Dapper.dll
+C:\Projects\WhereToStudy\WhereToStudy.vServices\bin\Debug\WhereToStudy.vModel.pdb
+C:\Projects\WhereToStudy\WhereToStudy.vServices\bin\Debug\WhereToStudy.vRepository.pdb
+C:\Projects\WhereToStudy\WhereToStudy.vServices\bin\Debug\WhereToStudy.vResources.pdb
+C:\Projects\WhereToStudy\WhereToStudy.vServices\bin\Debug\Dapper.xml
+C:\Projects\WhereToStudy\WhereToStudy.vServices\bin\Debug\en\WhereToStudy.vResources.resources.dll
+C:\Projects\WhereToStudy\WhereToStudy.vServices\obj\Debug\WhereToStudy.vServices.csprojResolveAssemblyReference.cache
+C:\Projects\WhereToStudy\WhereToStudy.vServices\obj\Debug\WhereToStudy.vServices.csproj.CoreCompileInputs.cache
+C:\Projects\WhereToStudy\WhereToStudy.vServices\obj\Debug\WhereToStudy.vServices.csproj.CopyComplete
+C:\Projects\WhereToStudy\WhereToStudy.vServices\obj\Debug\WhereToStudy.vServices.dll
+C:\Projects\WhereToStudy\WhereToStudy.vServices\obj\Debug\WhereToStudy.vServices.pdb

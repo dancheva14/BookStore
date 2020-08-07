@@ -1,0 +1,11 @@
+C:\Projects\WhereToStudy\WhereToStudy.vModel\bin\Debug\WhereToStudy.vModel.dll
+C:\Projects\WhereToStudy\WhereToStudy.vModel\bin\Debug\WhereToStudy.vModel.pdb
+C:\Projects\WhereToStudy\WhereToStudy.vModel\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Projects\WhereToStudy\WhereToStudy.vModel\bin\Debug\WhereToStudy.vResources.dll
+C:\Projects\WhereToStudy\WhereToStudy.vModel\bin\Debug\WhereToStudy.vResources.pdb
+C:\Projects\WhereToStudy\WhereToStudy.vModel\bin\Debug\en\WhereToStudy.vResources.resources.dll
+C:\Projects\WhereToStudy\WhereToStudy.vModel\obj\Debug\WhereToStudy.vModel.csprojResolveAssemblyReference.cache
+C:\Projects\WhereToStudy\WhereToStudy.vModel\obj\Debug\WhereToStudy.vModel.csproj.CoreCompileInputs.cache
+C:\Projects\WhereToStudy\WhereToStudy.vModel\obj\Debug\WhereToStudy.vModel.csproj.CopyComplete
+C:\Projects\WhereToStudy\WhereToStudy.vModel\obj\Debug\WhereToStudy.vModel.dll
+C:\Projects\WhereToStudy\WhereToStudy.vModel\obj\Debug\WhereToStudy.vModel.pdb

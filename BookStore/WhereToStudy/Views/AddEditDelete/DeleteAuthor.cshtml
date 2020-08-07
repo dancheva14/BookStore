@@ -1,0 +1,42 @@
+﻿@model IEnumerable<BookStore.vModel.Authors>
+@{
+    ViewBag.Title = "DeleteAuthor";
+}
+
+@if (ViewBag.Message != null)
+{
+    <span><b>@ViewData["Message"]</b></span>
+}
+
+<h2>Автори/Издатели</h2>
+<div class="courses-list">
+    @*<ul>
+            @foreach (var item in Model)
+            {
+                <li>
+                    @Html.Hidden("courseId", item.Id)
+                    @Html.Label(item.Name)
+
+                    <a href="@Url.Action("DeleteAuthor", "AddEditDelete", new { id = item.Id }, null)">Изтрии</a>
+
+                    <a href="@Url.Action("EditAuthor", "AddEditDelete", new { id = item.Id }, null)">Редактирай</a>
+                </li>
+            }
+        </ul>*@
+    <table>
+        <tr>
+            <th>Автор / Издател | </th>
+            <th>Изтриване | </th>
+            <th>Редакция</th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td> @Html.Label(item.Name)</td>
+                <td> <a href="@Url.Action("DeleteAuthor", "AddEditDelete", new { id = item.Id }, null)">Изтрии</a></td>
+                <td><a href="@Url.Action("EditAuthor", "AddEditDelete", new { id = item.Id }, null)">Редактирай</a></td>
+            </tr>
+        }
+    </table>
+</div>
+

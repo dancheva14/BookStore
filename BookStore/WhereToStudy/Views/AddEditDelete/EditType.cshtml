@@ -1,0 +1,28 @@
+﻿@model BookStore.vModel.Types
+@{
+    ViewBag.Title = "EditType";
+}
+
+<h2>Редактирай тип</h2>
+@using (Html.BeginForm())
+{
+    <div style="width:900px;">
+        <fieldset>
+            @Html.HiddenFor(m => m.Id)
+
+            <div class="form-group">
+
+                @Html.LabelFor(m => m.Name, htmlAttributes: new { @class = "custom-class-for-label" })
+
+                @Html.TextBoxFor(m => m.Name, htmlAttributes: new { @class = "custom-class-for-width" })
+
+            </div>
+            <br />
+
+            <div>
+                <input class="col-lg-10" type="submit" value=Редактирай />
+            </div>
+        </fieldset>
+    </div>
+
+}

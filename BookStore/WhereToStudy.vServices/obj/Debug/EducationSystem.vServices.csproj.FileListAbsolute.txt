@@ -1,0 +1,90 @@
+E:\WhereToStudy\WhereToStudy.vServices\bin\Debug\WhereToStudy.vServices.dll
+E:\WhereToStudy\WhereToStudy.vServices\bin\Debug\WhereToStudy.vServices.pdb
+E:\WhereToStudy\WhereToStudy.vServices\bin\Debug\WhereToStudy.vModel.dll
+E:\WhereToStudy\WhereToStudy.vServices\bin\Debug\WhereToStudy.vRepository.dll
+E:\WhereToStudy\WhereToStudy.vServices\bin\Debug\Dapper.dll
+E:\WhereToStudy\WhereToStudy.vServices\bin\Debug\WhereToStudy.vModel.pdb
+E:\WhereToStudy\WhereToStudy.vServices\bin\Debug\WhereToStudy.vRepository.pdb
+E:\WhereToStudy\WhereToStudy.vServices\bin\Debug\Dapper.xml
+E:\WhereToStudy\WhereToStudy.vServices\obj\Debug\EducationSystem.vServices.csprojResolveAssemblyReference.cache
+E:\WhereToStudy\WhereToStudy.vServices\obj\Debug\EducationSystem.vServices.csproj.CoreCompileInputs.cache
+E:\WhereToStudy\WhereToStudy.vServices\obj\Debug\EducationSystem.vServices.csproj.CopyComplete
+E:\WhereToStudy\WhereToStudy.vServices\obj\Debug\WhereToStudy.vServices.dll
+E:\WhereToStudy\WhereToStudy.vServices\obj\Debug\WhereToStudy.vServices.pdb
+E:\EducationSystem\WhereToStudy.vServices\bin\Debug\WhereToStudy.vServices.dll
+E:\EducationSystem\WhereToStudy.vServices\bin\Debug\WhereToStudy.vServices.pdb
+E:\EducationSystem\WhereToStudy.vServices\bin\Debug\WhereToStudy.vModel.dll
+E:\EducationSystem\WhereToStudy.vServices\bin\Debug\WhereToStudy.vRepository.dll
+E:\EducationSystem\WhereToStudy.vServices\bin\Debug\Dapper.dll
+E:\EducationSystem\WhereToStudy.vServices\bin\Debug\WhereToStudy.vModel.pdb
+E:\EducationSystem\WhereToStudy.vServices\bin\Debug\WhereToStudy.vRepository.pdb
+E:\EducationSystem\WhereToStudy.vServices\bin\Debug\Dapper.xml
+E:\EducationSystem\WhereToStudy.vServices\obj\Debug\EducationSystem.vServices.csprojResolveAssemblyReference.cache
+E:\EducationSystem\WhereToStudy.vServices\obj\Debug\EducationSystem.vServices.csproj.CoreCompileInputs.cache
+E:\EducationSystem\WhereToStudy.vServices\obj\Debug\EducationSystem.vServices.csproj.CopyComplete
+E:\EducationSystem\WhereToStudy.vServices\obj\Debug\WhereToStudy.vServices.dll
+E:\EducationSystem\WhereToStudy.vServices\obj\Debug\WhereToStudy.vServices.pdb
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy.vServices\bin\Debug\WhereToStudy.vServices.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy.vServices\bin\Debug\WhereToStudy.vServices.pdb
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy.vServices\bin\Debug\WhereToStudy.vModel.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy.vServices\bin\Debug\WhereToStudy.vRepository.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy.vServices\bin\Debug\Dapper.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy.vServices\bin\Debug\WhereToStudy.vModel.pdb
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy.vServices\bin\Debug\WhereToStudy.vRepository.pdb
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy.vServices\bin\Debug\Dapper.xml
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy.vServices\obj\Debug\EducationSystem.vServices.csprojResolveAssemblyReference.cache
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy.vServices\obj\Debug\EducationSystem.vServices.csproj.CoreCompileInputs.cache
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy.vServices\obj\Debug\WhereToStudy.vServices.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy.vServices\obj\Debug\WhereToStudy.vServices.pdb
+E:\EducationSystem\EducationSystem\WhereToStudy.vServices\bin\Debug\WhereToStudy.vServices.dll
+E:\EducationSystem\EducationSystem\WhereToStudy.vServices\bin\Debug\WhereToStudy.vServices.pdb
+E:\EducationSystem\EducationSystem\WhereToStudy.vServices\bin\Debug\WhereToStudy.vModel.dll
+E:\EducationSystem\EducationSystem\WhereToStudy.vServices\bin\Debug\WhereToStudy.vRepository.dll
+E:\EducationSystem\EducationSystem\WhereToStudy.vServices\bin\Debug\Dapper.dll
+E:\EducationSystem\EducationSystem\WhereToStudy.vServices\bin\Debug\WhereToStudy.vModel.pdb
+E:\EducationSystem\EducationSystem\WhereToStudy.vServices\bin\Debug\WhereToStudy.vRepository.pdb
+E:\EducationSystem\EducationSystem\WhereToStudy.vServices\bin\Debug\Dapper.xml
+E:\EducationSystem\EducationSystem\WhereToStudy.vServices\obj\Debug\EducationSystem.vServices.csprojResolveAssemblyReference.cache
+E:\EducationSystem\EducationSystem\WhereToStudy.vServices\obj\Debug\EducationSystem.vServices.csproj.CoreCompileInputs.cache
+E:\EducationSystem\EducationSystem\WhereToStudy.vServices\obj\Debug\EducationSystem.vServices.csproj.CopyComplete
+E:\EducationSystem\EducationSystem\WhereToStudy.vServices\obj\Debug\WhereToStudy.vServices.dll
+E:\EducationSystem\EducationSystem\WhereToStudy.vServices\obj\Debug\WhereToStudy.vServices.pdb
+E:\Me\EducationSystem\EducationSystem\WhereToStudy.vServices\bin\Debug\WhereToStudy.vServices.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy.vServices\bin\Debug\WhereToStudy.vServices.pdb
+E:\Me\EducationSystem\EducationSystem\WhereToStudy.vServices\bin\Debug\WhereToStudy.vModel.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy.vServices\bin\Debug\WhereToStudy.vRepository.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy.vServices\bin\Debug\Dapper.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy.vServices\bin\Debug\WhereToStudy.vModel.pdb
+E:\Me\EducationSystem\EducationSystem\WhereToStudy.vServices\bin\Debug\WhereToStudy.vRepository.pdb
+E:\Me\EducationSystem\EducationSystem\WhereToStudy.vServices\bin\Debug\Dapper.xml
+E:\Me\EducationSystem\EducationSystem\WhereToStudy.vServices\obj\Debug\EducationSystem.vServices.csprojResolveAssemblyReference.cache
+E:\Me\EducationSystem\EducationSystem\WhereToStudy.vServices\obj\Debug\EducationSystem.vServices.csproj.CoreCompileInputs.cache
+E:\Me\EducationSystem\EducationSystem\WhereToStudy.vServices\obj\Debug\EducationSystem.vServices.csproj.CopyComplete
+E:\Me\EducationSystem\EducationSystem\WhereToStudy.vServices\obj\Debug\WhereToStudy.vServices.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy.vServices\obj\Debug\WhereToStudy.vServices.pdb
+D:\Me\EducationSystem\EducationSystem\WhereToStudy.vServices\bin\Debug\WhereToStudy.vServices.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy.vServices\bin\Debug\WhereToStudy.vServices.pdb
+D:\Me\EducationSystem\EducationSystem\WhereToStudy.vServices\bin\Debug\WhereToStudy.vModel.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy.vServices\bin\Debug\WhereToStudy.vRepository.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy.vServices\bin\Debug\Dapper.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy.vServices\bin\Debug\WhereToStudy.vModel.pdb
+D:\Me\EducationSystem\EducationSystem\WhereToStudy.vServices\bin\Debug\WhereToStudy.vRepository.pdb
+D:\Me\EducationSystem\EducationSystem\WhereToStudy.vServices\bin\Debug\Dapper.xml
+D:\Me\EducationSystem\EducationSystem\WhereToStudy.vServices\obj\Debug\EducationSystem.vServices.csprojAssemblyReference.cache
+D:\Me\EducationSystem\EducationSystem\WhereToStudy.vServices\obj\Debug\EducationSystem.vServices.csproj.CoreCompileInputs.cache
+D:\Me\EducationSystem\EducationSystem\WhereToStudy.vServices\obj\Debug\EducationSystem.vServices.csproj.CopyComplete
+D:\Me\EducationSystem\EducationSystem\WhereToStudy.vServices\obj\Debug\WhereToStudy.vServices.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy.vServices\obj\Debug\WhereToStudy.vServices.pdb
+E:\ВИви\EducationSystem\WhereToStudy.vServices\bin\Debug\WhereToStudy.vServices.dll
+E:\ВИви\EducationSystem\WhereToStudy.vServices\bin\Debug\WhereToStudy.vServices.pdb
+E:\ВИви\EducationSystem\WhereToStudy.vServices\bin\Debug\WhereToStudy.vModel.dll
+E:\ВИви\EducationSystem\WhereToStudy.vServices\bin\Debug\WhereToStudy.vRepository.dll
+E:\ВИви\EducationSystem\WhereToStudy.vServices\bin\Debug\Dapper.dll
+E:\ВИви\EducationSystem\WhereToStudy.vServices\bin\Debug\WhereToStudy.vModel.pdb
+E:\ВИви\EducationSystem\WhereToStudy.vServices\bin\Debug\WhereToStudy.vRepository.pdb
+E:\ВИви\EducationSystem\WhereToStudy.vServices\bin\Debug\Dapper.xml
+E:\ВИви\EducationSystem\WhereToStudy.vServices\obj\Debug\EducationSystem.vServices.csprojAssemblyReference.cache
+E:\ВИви\EducationSystem\WhereToStudy.vServices\obj\Debug\EducationSystem.vServices.csproj.CoreCompileInputs.cache
+E:\ВИви\EducationSystem\WhereToStudy.vServices\obj\Debug\EducationSystem.vServices.csproj.CopyComplete
+E:\ВИви\EducationSystem\WhereToStudy.vServices\obj\Debug\WhereToStudy.vServices.dll
+E:\ВИви\EducationSystem\WhereToStudy.vServices\obj\Debug\WhereToStudy.vServices.pdb

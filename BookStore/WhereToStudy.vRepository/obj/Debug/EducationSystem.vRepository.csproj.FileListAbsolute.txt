@@ -1,0 +1,76 @@
+E:\WhereToStudy\WhereToStudy.vRepository\bin\Debug\WhereToStudy.vRepository.dll
+E:\WhereToStudy\WhereToStudy.vRepository\bin\Debug\WhereToStudy.vRepository.pdb
+E:\WhereToStudy\WhereToStudy.vRepository\bin\Debug\Dapper.dll
+E:\WhereToStudy\WhereToStudy.vRepository\bin\Debug\WhereToStudy.vModel.dll
+E:\WhereToStudy\WhereToStudy.vRepository\bin\Debug\WhereToStudy.vModel.pdb
+E:\WhereToStudy\WhereToStudy.vRepository\bin\Debug\Dapper.xml
+E:\WhereToStudy\WhereToStudy.vRepository\obj\Debug\EducationSystem.vRepository.csprojResolveAssemblyReference.cache
+E:\WhereToStudy\WhereToStudy.vRepository\obj\Debug\EducationSystem.vRepository.csproj.CoreCompileInputs.cache
+E:\WhereToStudy\WhereToStudy.vRepository\obj\Debug\EducationSystem.vRepository.csproj.CopyComplete
+E:\WhereToStudy\WhereToStudy.vRepository\obj\Debug\WhereToStudy.vRepository.dll
+E:\WhereToStudy\WhereToStudy.vRepository\obj\Debug\WhereToStudy.vRepository.pdb
+E:\EducationSystem\WhereToStudy.vRepository\bin\Debug\WhereToStudy.vRepository.dll
+E:\EducationSystem\WhereToStudy.vRepository\bin\Debug\WhereToStudy.vRepository.pdb
+E:\EducationSystem\WhereToStudy.vRepository\bin\Debug\Dapper.dll
+E:\EducationSystem\WhereToStudy.vRepository\bin\Debug\WhereToStudy.vModel.dll
+E:\EducationSystem\WhereToStudy.vRepository\bin\Debug\WhereToStudy.vModel.pdb
+E:\EducationSystem\WhereToStudy.vRepository\bin\Debug\Dapper.xml
+E:\EducationSystem\WhereToStudy.vRepository\obj\Debug\EducationSystem.vRepository.csprojResolveAssemblyReference.cache
+E:\EducationSystem\WhereToStudy.vRepository\obj\Debug\EducationSystem.vRepository.csproj.CoreCompileInputs.cache
+E:\EducationSystem\WhereToStudy.vRepository\obj\Debug\EducationSystem.vRepository.csproj.CopyComplete
+E:\EducationSystem\WhereToStudy.vRepository\obj\Debug\WhereToStudy.vRepository.dll
+E:\EducationSystem\WhereToStudy.vRepository\obj\Debug\WhereToStudy.vRepository.pdb
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy.vRepository\bin\Debug\WhereToStudy.vRepository.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy.vRepository\bin\Debug\WhereToStudy.vRepository.pdb
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy.vRepository\bin\Debug\Dapper.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy.vRepository\bin\Debug\WhereToStudy.vModel.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy.vRepository\bin\Debug\WhereToStudy.vModel.pdb
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy.vRepository\bin\Debug\Dapper.xml
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy.vRepository\obj\Debug\EducationSystem.vRepository.csprojResolveAssemblyReference.cache
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy.vRepository\obj\Debug\EducationSystem.vRepository.csproj.CoreCompileInputs.cache
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy.vRepository\obj\Debug\WhereToStudy.vRepository.dll
+E:\Дипломна работа - Състема за обучение\EducationSystem\WhereToStudy.vRepository\obj\Debug\WhereToStudy.vRepository.pdb
+E:\EducationSystem\EducationSystem\WhereToStudy.vRepository\bin\Debug\WhereToStudy.vRepository.dll
+E:\EducationSystem\EducationSystem\WhereToStudy.vRepository\bin\Debug\WhereToStudy.vRepository.pdb
+E:\EducationSystem\EducationSystem\WhereToStudy.vRepository\bin\Debug\Dapper.dll
+E:\EducationSystem\EducationSystem\WhereToStudy.vRepository\bin\Debug\WhereToStudy.vModel.dll
+E:\EducationSystem\EducationSystem\WhereToStudy.vRepository\bin\Debug\WhereToStudy.vModel.pdb
+E:\EducationSystem\EducationSystem\WhereToStudy.vRepository\bin\Debug\Dapper.xml
+E:\EducationSystem\EducationSystem\WhereToStudy.vRepository\obj\Debug\EducationSystem.vRepository.csprojResolveAssemblyReference.cache
+E:\EducationSystem\EducationSystem\WhereToStudy.vRepository\obj\Debug\EducationSystem.vRepository.csproj.CoreCompileInputs.cache
+E:\EducationSystem\EducationSystem\WhereToStudy.vRepository\obj\Debug\EducationSystem.vRepository.csproj.CopyComplete
+E:\EducationSystem\EducationSystem\WhereToStudy.vRepository\obj\Debug\WhereToStudy.vRepository.dll
+E:\EducationSystem\EducationSystem\WhereToStudy.vRepository\obj\Debug\WhereToStudy.vRepository.pdb
+E:\Me\EducationSystem\EducationSystem\WhereToStudy.vRepository\bin\Debug\WhereToStudy.vRepository.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy.vRepository\bin\Debug\WhereToStudy.vRepository.pdb
+E:\Me\EducationSystem\EducationSystem\WhereToStudy.vRepository\bin\Debug\Dapper.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy.vRepository\bin\Debug\WhereToStudy.vModel.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy.vRepository\bin\Debug\WhereToStudy.vModel.pdb
+E:\Me\EducationSystem\EducationSystem\WhereToStudy.vRepository\bin\Debug\Dapper.xml
+E:\Me\EducationSystem\EducationSystem\WhereToStudy.vRepository\obj\Debug\EducationSystem.vRepository.csprojResolveAssemblyReference.cache
+E:\Me\EducationSystem\EducationSystem\WhereToStudy.vRepository\obj\Debug\EducationSystem.vRepository.csproj.CoreCompileInputs.cache
+E:\Me\EducationSystem\EducationSystem\WhereToStudy.vRepository\obj\Debug\EducationSystem.vRepository.csproj.CopyComplete
+E:\Me\EducationSystem\EducationSystem\WhereToStudy.vRepository\obj\Debug\WhereToStudy.vRepository.dll
+E:\Me\EducationSystem\EducationSystem\WhereToStudy.vRepository\obj\Debug\WhereToStudy.vRepository.pdb
+D:\Me\EducationSystem\EducationSystem\WhereToStudy.vRepository\bin\Debug\WhereToStudy.vRepository.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy.vRepository\bin\Debug\WhereToStudy.vRepository.pdb
+D:\Me\EducationSystem\EducationSystem\WhereToStudy.vRepository\bin\Debug\Dapper.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy.vRepository\bin\Debug\WhereToStudy.vModel.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy.vRepository\bin\Debug\WhereToStudy.vModel.pdb
+D:\Me\EducationSystem\EducationSystem\WhereToStudy.vRepository\bin\Debug\Dapper.xml
+D:\Me\EducationSystem\EducationSystem\WhereToStudy.vRepository\obj\Debug\EducationSystem.vRepository.csprojAssemblyReference.cache
+D:\Me\EducationSystem\EducationSystem\WhereToStudy.vRepository\obj\Debug\EducationSystem.vRepository.csproj.CoreCompileInputs.cache
+D:\Me\EducationSystem\EducationSystem\WhereToStudy.vRepository\obj\Debug\EducationSystem.vRepository.csproj.CopyComplete
+D:\Me\EducationSystem\EducationSystem\WhereToStudy.vRepository\obj\Debug\WhereToStudy.vRepository.dll
+D:\Me\EducationSystem\EducationSystem\WhereToStudy.vRepository\obj\Debug\WhereToStudy.vRepository.pdb
+E:\ВИви\EducationSystem\WhereToStudy.vRepository\bin\Debug\WhereToStudy.vRepository.dll
+E:\ВИви\EducationSystem\WhereToStudy.vRepository\bin\Debug\WhereToStudy.vRepository.pdb
+E:\ВИви\EducationSystem\WhereToStudy.vRepository\bin\Debug\Dapper.dll
+E:\ВИви\EducationSystem\WhereToStudy.vRepository\bin\Debug\WhereToStudy.vModel.dll
+E:\ВИви\EducationSystem\WhereToStudy.vRepository\bin\Debug\WhereToStudy.vModel.pdb
+E:\ВИви\EducationSystem\WhereToStudy.vRepository\bin\Debug\Dapper.xml
+E:\ВИви\EducationSystem\WhereToStudy.vRepository\obj\Debug\EducationSystem.vRepository.csprojAssemblyReference.cache
+E:\ВИви\EducationSystem\WhereToStudy.vRepository\obj\Debug\EducationSystem.vRepository.csproj.CoreCompileInputs.cache
+E:\ВИви\EducationSystem\WhereToStudy.vRepository\obj\Debug\EducationSystem.vRepository.csproj.CopyComplete
+E:\ВИви\EducationSystem\WhereToStudy.vRepository\obj\Debug\WhereToStudy.vRepository.dll
+E:\ВИви\EducationSystem\WhereToStudy.vRepository\obj\Debug\WhereToStudy.vRepository.pdb
